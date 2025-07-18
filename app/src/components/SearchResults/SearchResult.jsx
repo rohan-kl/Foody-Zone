@@ -38,7 +38,7 @@ const FoodCards = styled.div`
   column-gap: 20px;
   justify-content: center;
   align-items: center;
-  padding-top: 80px;
+  padding-top: 90px;
 `;
 const FoodCard = styled.div`
   width: 340px;
@@ -78,7 +78,7 @@ const FoodCard = styled.div`
     align-items: end;
     h3 {
       margin-top: 8px;
-      font-size: 16px;
+      font-size: 26px;
       font-weight: 500;
     }
     p {
